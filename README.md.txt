@@ -1,11 +1,23 @@
 # My First Project
 
-This is a basic Python project uploaded from GitHub Desktop.
+This is my very first Python project uploaded to GitHub using GitHub Desktop.
 
-## What It Does
+## 💡 What It Does
+A simple Python program that prints a message — the first step toward bigger, cloud-based or AI-powered projects.
 
-Just prints a message — but it's the first step toward bigger things!
+## 📁 Technologies Used
+- Python
+- Git & GitHub
+- GitHub Desktop
 
-## Author
+## 🧑‍💻 Author
+Aditya Agarwal  
+B.Tech CSE (Industry Embedded Program with Microsoft)  
+Parul University
 
-Aditya Agarwal
+## 🔗 Certifications
+- AI-900: Microsoft Azure AI Fundamentals  
+- DP-900: Microsoft Azure Data Fundamentals  
+- AZ-900: Microsoft Azure Fundamentals
+
+> 🚀 More real-world projects coming soon...
